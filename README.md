@@ -22,4 +22,4 @@
     <a href='https://www.linkedin.com/in/silvio-nascimento-ribeiro-ba7a92231/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
 </div>
 
-![Snake animation](https://github.com/SilvioNascimento/SilvioNascimento/blob/main/README.md)
+  ![Snake animation](https://github.com/SilvioNascimento/SilvioNascimento/blob/output/github-contribution-grid-snake.svg)
