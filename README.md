@@ -94,8 +94,3 @@
   </a>
 </div>
 
-###
-
-  ![Snake animation](https://github.com/SilvioNascimento/SilvioNascimento/blob/output/github-contribution-grid-snake.svg)
-
-###
