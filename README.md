@@ -1,26 +1,101 @@
-## Olá! Eu sou **Silvio Nascimento**
+# Olá! Eu sou **Silvio Nascimento**
 
-- Pretendo trabalhar ou como desenvolvedor Full-Stack ou como educador da área de TI
-- Atualmente estou estudando Python
+<h2 align="left">Sobre mim</h2>
 
-<div>
-    <a href='https://github.com/SilvioNascimento'>
-    <img height='160em' src='https://github-readme-stats.vercel.app/api?username=SilvioNascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true'/>
-    <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioNascimento&layout=compact&langs_count=16&theme=tokyonight'/>
+###
+
+<p align="left">- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir para área de FULL STACK;<br>- 📖 Gosto de ler e aprender novos conhecimentos.</p>
+
+###
+
+<h2 align="left">Estatísticas</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvioNascimento&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilvioNascimento&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvioNascimento&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div style="display: inline_block"><br>
-    <img align='center' alt='Rafa-Python' height='30' widht='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align='center' alt='Rafa-HTML5' height='30' widht='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align='center' alt='Rafa-CSS3' height='30' widht='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+###
+
+<h2 align="left">Tecnologias que domino</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-  ##
+###
 
-<div>
-    <a href='https://www.instagram.com/silvio_nasc.py/' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' target='_blank'></a>
-    <a href='https://www.linkedin.com/in/silvio-nascimento-ribeiro-ba7a92231/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
+<h2 align="left">Tecnologias que estou aprendendo</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
+###
+
+<h2 align="left">Ferramentas que utilizo</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/silvio-nascimento-ribeiro-84ab93319" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/silvio_nasc.py/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="silvio.estudante19@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
   ![Snake animation](https://github.com/SilvioNascimento/SilvioNascimento/blob/output/github-contribution-grid-snake.svg)
+
+###
