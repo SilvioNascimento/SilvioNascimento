@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir para área de FULL STACK;<br>- 📖 Gosto de ler e aprender novos conhecimentos.</p>
+<p align="left">- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir na área de FULL STACK;<br>- 📖 Gosto de ler e aprender novos conhecimentos.</p>
 
 ###
 
