@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir na área de FULL STACK;<br>- 📖 Gosto de ler e aprender novos conhecimentos.</p>
+<p align="left">- 🎓 Concluí o ensino médio na ECIT Dom Marcelo com o curso técnico de informática em 2020;<br>- 🌱 Atuei por 6 meses no desenvolvimento de um sistema de viveiro de mudas para a empresa AFINK;<br>- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir na área de FULL STACK;<br>- 📖 Gosto de ler e aprender novos conhecimentos.</p>
 
 ###
 
