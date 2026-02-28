@@ -19,17 +19,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvioNascimento&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SilvioNascimento&radius=16&theme=tokyonight&hide_border=true"/>
 </div>
 
+</br>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvioNascimento&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvioNascimento&theme=tokyonight"/>
 </div>
+
+</br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilvioNascimento&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SilvioNascimento&radius=16&theme=tokyonight&hide_border=true"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilvioNascimento&theme=tokyonight"/>
 </div>
 
