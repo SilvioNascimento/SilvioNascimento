@@ -1,5 +1,12 @@
 # Olá! Eu sou **Silvio Nascimento Ribeiro**
 
+![image](.github/images/programação.jpg)
+
+> "A única maneira de fazer um ótimo trabalho é amar o que você faz"
+> - Autor: Steve Jobs
+
+---
+
 <h2 align="left">Sobre mim</h2>
 
 ###
