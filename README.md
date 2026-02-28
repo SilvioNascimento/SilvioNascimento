@@ -19,15 +19,6 @@
 
 ###
 
-<dev align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SilvioNascimento&radius=16&theme=tokyonight&hide_border=true"/>
-</dev>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvioNascimento&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilvioNascimento&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvioNascimento&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
@@ -38,6 +29,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilvioNascimento&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SilvioNascimento&radius=16&theme=tokyonight&hide_border=true"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilvioNascimento&theme=tokyonight"/>
 </div>
 
