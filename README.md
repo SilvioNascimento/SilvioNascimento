@@ -1,4 +1,6 @@
-# Olá! Eu sou **Silvio Nascimento Ribeiro**
+<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=130&color=6C9FF4&descAlign=50&descAlignY=50&section=header' />
+
+<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=1A1B27&background=6C9FF4&center=true&vCenter=true&width=435&lines=Ol%C3%A1+a+todos+e+a+todas!;Eu+sou+Silvio+Nascimento+Ribeiro.;Bem-vindos+e+bem-vindas+ao+meu+perfil+do+GitHub!" alt="Typing SVG" /></a>
 
 ![image](.github/images/programação.jpg)
 
@@ -115,7 +117,9 @@
 ---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilvioNascimento/SilvioNascimento/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: tokyonight)" srcset="https://raw.githubusercontent.com/SilvioNascimento/SilvioNascimento/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilvioNascimento/SilvioNascimento/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SilvioNascimento/SilvioNascimento/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=130&color=6C9FF4&section=footer&reversal=true&descAlign=50&descAlignY=50'/>
