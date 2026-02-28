@@ -20,7 +20,7 @@
 ###
 
 <dev align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=SilvioNascimento&theme=tokyo-night&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SilvioNascimento&radius=16&theme=tokyonight&hide_border=true"/>
 </dev>
 
 <div align="center">
@@ -33,12 +33,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvioNascimento&theme=tokyo-night"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvioNascimento&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilvioNascimento&theme=tokyo-night"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilvioNascimento&theme=tokyo-night"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilvioNascimento&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilvioNascimento&theme=tokyonight"/>
 </div>
 
 ###
