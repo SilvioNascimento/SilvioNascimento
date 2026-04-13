@@ -33,11 +33,12 @@
 
 </br>
 
+<!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilvioNascimento&theme=tokyonight"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilvioNascimento&theme=tokyonight"/>
 </div>
-
+-->
 ###
 
 <h2 align="left">Tecnologias que domino</h2>
