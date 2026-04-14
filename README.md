@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- 🎓 Concluí o ensino médio na ECIT Dom Marcelo com o curso técnico de informática em 2020;<br>- 🌱 Atuei por 9 meses no desenvolvimento de um sistema de viveiro de mudas para a empresa AFINK;<br>- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir na área de FULL STACK;<br>- 👨🏽‍🏫🔢🚀 Área de interesse: Educação, Finanças e Inovação;<br>- 📊🤖 Interesse secundário: Estudos iniciais de Dados/IA.</p>
+<p align="left">- 🎓 Concluí o ensino médio na ECIT Dom Marcelo com o curso técnico de informática em 2020;<br>- 🌱 Atuei por 8 meses no desenvolvimento de um sistema de viveiro de mudas para a empresa AFINK;<br>- 👨🏽‍🎓 Atualmente estou graduando em Licenciatura em Ciência da Computação;<br>- 👨🏽‍💻 Foco em back-end, mas pretendo seguir na área de FULL STACK;<br>- 👨🏽‍🏫🔢🚀 Área de interesse: Educação, Finanças e Inovação;<br>- 📊🤖 Interesse secundário: Estudos iniciais de Dados/IA.</p>
 
 ###
 
