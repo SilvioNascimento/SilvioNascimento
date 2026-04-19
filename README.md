@@ -33,6 +33,10 @@
 
 </br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvioNascimento&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
+</div>
+
 <!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilvioNascimento&theme=tokyonight"/>
